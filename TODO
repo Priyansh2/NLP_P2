@@ -1,0 +1,4 @@
+1. Improvise both models using extra features like more context etc. 
+2. In case of HMM with large observation sequence HMM model paramters (A,B)
+tends to zero. So, scaling has to be done. 
+3. Estimation of HMM model parametes with Baum-Welch Algorithm. 
